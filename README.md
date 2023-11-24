@@ -9,12 +9,12 @@ Coursera course offered by Stanford
   (ii) Parameter Learning
 3. Linear Algebra review
 
-# Week 02:
+# [Week 02](https://github.com/KhorshedSagor/Machine-Learning-Course-Material/tree/main/week-02):
 1. Octave/Matlab
 2. Multivariate Linear regression
 3. Computing Parameters analytically
 
-# Week 03:
+# [Week 03](https://github.com/KhorshedSagor/Machine-Learning-Course-Material/tree/main/week-03):
 1. Logistic Regression
   (i) Classification & Representation
   (ii) Logistic Regression Model
