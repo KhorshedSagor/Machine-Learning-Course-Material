@@ -2,7 +2,7 @@
 Coursera course offered by Stanford
 
 
-# Week 01:
+# [Week 01](https://github.com/KhorshedSagor/Machine-Learning-Course-Material/tree/main/week-01):
 1. Intro to ML
 2. Linear regression with one variable
   (i) Model & Cost function
